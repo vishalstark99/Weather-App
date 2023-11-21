@@ -1,3 +1,3 @@
 # Weather-App
 <br>
-# Author: Vishal 
+Author: Vishal 
